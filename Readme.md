@@ -118,9 +118,9 @@ Security issues can be reported to Intel's security incident response team via h
 --------------------------------------------------------------------------------
 ### v0.1.0
 
-    First release of `dimgen`.
+First release of `dimgen`.
 
-#### issues fixed
+###### issues fixed
 
 - fixes for compression bug
 - added support for debain buster
