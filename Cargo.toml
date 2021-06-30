@@ -1,0 +1,27 @@
+[package]
+name = "dimgen"
+version = "0.1.0"
+authors = ["Unnikrishnan Nair, Rahul <rahulunair@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.40"
+argh = "0.1.4"
+chrono = "0.4.19"
+console = "0.14.1"
+env_logger = "0.8.3"
+flate2 = "1.0.20"
+indicatif = {version = "0.15.*", features = ["rayon"]}
+log = "0.4.14"
+rayon = "1.5.0"
+tar = "0.4.33"
+
+[profile.release]
+opt-level = 3
+lto = true
+#codegen-units = 1
+#panic = 'abort'
+incremental = true
+
