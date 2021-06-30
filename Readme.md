@@ -1,4 +1,4 @@
-## Docker Image Metadata GENerator
+## DIMGEN - Docker Image Metadata GENerator
 
 ### Warning
 
