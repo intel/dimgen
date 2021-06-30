@@ -6,7 +6,6 @@
 
 ### Supported OSes
 
-
 The tool has be tested with images based on :
 
 - Debian Buster
@@ -15,13 +14,13 @@ The tool has be tested with images based on :
 - Redhat
 - Redhat UBI
 - Ubuntu 20.04
+- 
 
 
 ### Prerequistes
 
 Docker has to be installed on the system and preferably docker command should be [sudoless](https://linoxide.com/use-docker-without-sudo-ubuntu/),
 otherwise use `sudo` to run the tool.
-
 
 ### build 
 
@@ -45,13 +44,7 @@ Options:
   -s, --seperate    generate sources for base image and additional layers
                     seperately
   --help            display usage information
-```
-
-### Warning
-
-This solution is in its very early stages, so issues are expected. If you
-are using this tool to generate sources for any software release requirements, 
-it's your responsibility to ensure that all the sources are indeed downloaded and compressed into the tar file. 
+``` 
 
 ### Examples
 
