@@ -1,12 +1,5 @@
 ## DIMGEN - Docker Image Metadata GENerator
 
-### Warning
-
-This solution is in its very early stages, so issues are expected. If you
-are using this tool to generate sources for any software release requirements, 
-it's your responsibility to ensure that
-all the sources are indeed downloaded and compressed into the tar file. 
-
 **dimgen** - Get sources of installed packages (using the os package manager) in a docker image.
 
 ![Alt text](./svg/dimgen.svg)
@@ -53,6 +46,12 @@ Options:
                     seperately
   --help            display usage information
 ```
+
+### Warning
+
+This solution is in its very early stages, so issues are expected. If you
+are using this tool to generate sources for any software release requirements, 
+it's your responsibility to ensure that all the sources are indeed downloaded and compressed into the tar file. 
 
 ### Examples
 
