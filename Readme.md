@@ -1,4 +1,4 @@
-## dimgen - Docker Image Metadata GENerator
+## Docker Image Metadata GENerator
 
 **dimgen** - Get sources of installed packages (using the os package manager) in a docker image.
 
