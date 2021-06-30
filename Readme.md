@@ -103,19 +103,19 @@ As seen, the base image sources file got generated along with a Dockerfile templ
 is an example that be referred to create source images.
 
 
-## Contributions
+### Contributions
 
 Contributions are welcome, this is a alpha stage project and has a lot of rough edges,
 there is a lot of areas for contributions, please see the `todo.md` to get ideas :).
 
-## Security Issues
+### Security Issues
 
 Security issues can be reported to Intel's security incident response team via https://intel.com/security.
 
-## Release Notes
+### Release Notes
 
 --------------------------------------------------------------------------------
-### v0.1.0
+#### v0.1.0
 
 First release of `dimgen`.
 
