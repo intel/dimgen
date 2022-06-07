@@ -16,7 +16,7 @@ flate2 = "1.0.20"
 indicatif = {version = "0.15.*", features = ["rayon"]}
 log = "0.4.14"
 rayon = "1.5.0"
-tar = "0.4.33"
+tar = "0.4.36"
 
 [profile.release]
 opt-level = 3
