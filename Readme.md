@@ -1,3 +1,24 @@
+# DISCONTINUATION OF PROJECT.
+
+This project will no longer be maintained by Intel.
+
+This project has been identified as having known security escapes.
+
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+
+Intel no longer accepts patches to this project.
+rdower@rdower-desk1:~/tools/github$ cat vuln_legal.txt
+DISCONTINUATION OF PROJECT.
+
+This project will no longer be maintained by Intel.
+
+This project has been identified as having known security escapes.
+
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.
+
+Intel no longer accepts patches to this project.
+
+
 ## Docker Image Metadata GENerator
 
 **dimgen** - Get sources of installed packages (using the os package manager) in a docker image.
